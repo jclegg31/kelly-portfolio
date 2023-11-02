@@ -1,8 +1,13 @@
 // Font
 $font-family-sans-serif: 'Open Sans', sans-serif;
 
-//Colors
+// Colors
 $primary: #f1eae2;
 $secondary: #222;
+$white: #fff;
+
+// Navbar
+$navbar-padding-y: 1rem;
+$navbar-dark-color: secondary;
 
 @import '../node_modules/bootstrap/scss/bootstrap';
